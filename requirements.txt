@@ -1,0 +1,5 @@
+Django==1.9
+django-taggit==0.21.3
+Pillow==3.4.1
+pytz==2016.7
+psycopg2
